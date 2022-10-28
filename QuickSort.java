@@ -7,3 +7,4 @@ public class QuickSort
 }
  
 }
+//Time complexity for merge sort:T(n) = 2T(n/2) + O(n)
