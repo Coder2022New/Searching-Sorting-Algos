@@ -5,5 +5,10 @@ public class QuickSort
  {
 	/*Please start adding your code here*/
 }
+	
+	
  
 }
+
+
+//time complexity : O(n)
