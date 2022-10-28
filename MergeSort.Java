@@ -7,5 +7,3 @@ public class MergeSort
 } 
 }
 
-
- //T(n) = 2T(n/2) + O(n)
