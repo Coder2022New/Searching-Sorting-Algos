@@ -9,6 +9,3 @@ public class QuickSort
 	
  
 }
-
-
-//time complexity : O(n)
